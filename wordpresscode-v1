@@ -1,0 +1,99 @@
+<!-- wp:columns {"align":"wide"} -->
+<div class="wp-block-columns alignwide"><!-- wp:column {"verticalAlignment":"center","width":"50%"} -->
+<div class="wp-block-column is-vertically-aligned-center" style="flex-basis:50%"><!-- wp:heading {"style":{"typography":{"fontWeight":"300"}},"fontSize":"large"} -->
+<h2 class="has-large-font-size" id="chu-jie-ying" style="font-weight:300"><span class="uppercase">C</span>hu Jie Ying</h2>
+<!-- /wp:heading --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"center","width":"50%"} -->
+<div class="wp-block-column is-vertically-aligned-center" style="flex-basis:50%"><!-- wp:social-links {"iconColor":"primary","iconColorValue":"#000000","openInNewTab":true,"className":"is-style-logos-only","layout":{"type":"flex","justifyContent":"right"}} -->
+<ul class="wp-block-social-links has-icon-color is-style-logos-only"><!-- wp:social-link {"url":"https://sg.linkedin.com/in/chujieying","service":"linkedin"} /-->
+
+<!-- wp:social-link {"url":"https://chujieying.github.io/blog.v1/","service":"github"} /--></ul>
+<!-- /wp:social-links --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:spacer {"height":45} -->
+<div style="height:45px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:group {"align":"wide","style":{"spacing":{"padding":{"top":"0px","right":"0px","bottom":"0px","left":"0px"}}},"className":"is-style-default"} -->
+<div class="wp-block-group alignwide is-style-default" style="padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px"><!-- wp:columns {"align":"wide"} -->
+<div class="wp-block-columns alignwide"><!-- wp:column {"width":"33.33%"} -->
+<div class="wp-block-column" style="flex-basis:33.33%"><!-- wp:paragraph -->
+<p>01</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"style":{"typography":{"lineHeight":"1.2","fontSize":"42px"}}} -->
+<h2 id="articles-on-medium" style="font-size:42px;line-height:1.2"><strong><a href="https://chujieying.medium.com/" target="_blank" rel="noreferrer noopener">Articles on Medium</a></strong></h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"style":{"typography":{"fontSize":"18px"}}} -->
+<p style="font-size:18px">I share articles on ways to optimize and stay productive in life. That’s the plan, anyway!</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"width":"66.66%"} -->
+<div class="wp-block-column" style="flex-basis:66.66%"><!-- wp:image {"id":42,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="https://chujieying77.files.wordpress.com/2021/11/smorgasburg-ny-2017-1.jpeg?w=620" alt="" class="wp-image-42"/><figcaption>Photographed in New York City, United States in 2017</figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:columns {"align":"wide"} -->
+<div class="wp-block-columns alignwide"><!-- wp:column {"width":"33.33%"} -->
+<div class="wp-block-column" style="flex-basis:33.33%"><!-- wp:paragraph -->
+<p>02</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"style":{"typography":{"lineHeight":"1.2","fontSize":"42px"}}} -->
+<h2 id="content-strategist-at-arclab" style="font-size:42px;line-height:1.2"><strong>Content Strategist at ArcLab</strong></h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"style":{"typography":{"fontSize":"18px"}}} -->
+<p style="font-size:18px">In my professional work, I am the powerhouse for all things Content related. I strategise and execute good work to reach our target audience and track Google Analytics to report our performance. </p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"width":"66.66%"} -->
+<div class="wp-block-column" style="flex-basis:66.66%"><!-- wp:image {"id":65,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="https://chujieying77.files.wordpress.com/2021/11/medium.jpeg?w=620" alt="" class="wp-image-65"/><figcaption>Photographed in Istanbul, Turkey in 2019</figcaption></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:columns {"align":"wide"} -->
+<div class="wp-block-columns alignwide"><!-- wp:column {"width":"33.33%"} -->
+<div class="wp-block-column" style="flex-basis:33.33%"><!-- wp:paragraph -->
+<p>03</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"style":{"typography":{"lineHeight":"1.2","fontSize":"42px"}}} -->
+<h2 id="content-strategist-at-arclab" style="font-size:42px;line-height:1.2"><strong><a href="http://chujieying77.wordpress.com/photography/" target="_blank" rel="noreferrer noopener">Photography</a></strong></h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"style":{"typography":{"fontSize":"18px"}}} -->
+<p style="font-size:18px">My passion lies in capturing the beauty of the universe wherever I go. </p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"width":"66.66%"} -->
+<div class="wp-block-column" style="flex-basis:66.66%"><!-- wp:image {"id":99,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="https://chujieying77.files.wordpress.com/2021/11/melbourne-2018.jpeg?w=1024" alt="" class="wp-image-99"/><figcaption>Photographed in Melbourne, Australia 2018</figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
